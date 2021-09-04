@@ -17,8 +17,6 @@ import java.nio.file.StandardCopyOption;
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
-
-
 public class Open {
     private JTextField textField1;
     private JPanel panel1;
@@ -30,6 +28,7 @@ public class Open {
     private JLabel ImageThumb;
     String source;
     String thumb;
+    //aaa
 
 
     public Open() {
